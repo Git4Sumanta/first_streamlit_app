@@ -1,5 +1,7 @@
 
 import streamlit;
+import pandas;
+
 streamlit.title("my Page");
 streamlit.header('Breakfast Menu')
 streamlit.text(' Omega 3 & Blueberry Oatmeal')
